@@ -1,0 +1,4 @@
+*.pt
+*.txt
+.ipynb_checkpoints/
+saved_model
